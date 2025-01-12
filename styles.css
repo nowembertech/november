@@ -1,4 +1,17 @@
 body {
+    margin: 0;
+    padding: 0;
+  
+    #ozel-bolum {
+      background-image: url('sonbahar.webp');
+      background-size: cover;
+    }
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; 
+    font-family: Arial, sans-serif;
+    color: white; /
+  }
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
